@@ -1,0 +1,16 @@
+build/
+dist/
+*.egg-info/
+__pycache__/
+*.pyc
+*.so
+*.pyd
+.cmake_cache
+CMakeFiles/
+.DS_Store
+.vscode/settings.json
+*.swp
+*.swo
+# pixi environments
+.pixi/*
+!.pixi/config.toml
