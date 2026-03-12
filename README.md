@@ -129,7 +129,7 @@ uv build --sdist -o dist .
 You can also run `build` as a module:
 
 ```bash
-uv run python -m build
+python -m build
 ```
 
 This creates both a wheel (.whl) and source distribution (.tar.gz) in the `dist` directory.
